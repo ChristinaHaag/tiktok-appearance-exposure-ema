@@ -14,18 +14,15 @@ This repository contains the supplemental material and analysis code accompanyin
 
 ---
 
-## Authors and affiliations
+## Authors
 
-| Author | Affiliation |
-|---|---|
-| Christina Haag | MRC Cognition and Brain Sciences Unit, University of Cambridge, UK |
-| Mingyue Zha | Department of Quantitative Social Science, Dartmouth College, Hanover, NH, USA |
-| Matti Vuorre | Department of Social Psychology, Tilburg School of Social and Behavioral Sciences, Tilburg University, Netherlands |
-| Laura Boeschoten | Department of Methodology and Statistics, Utrecht University, Netherlands |
-| Amanda M. Ferguson | MRC Cognition and Brain Sciences Unit, University of Cambridge, UK |
-| Sebastian Kurten | Department of Methodology and Statistics, Utrecht University, Netherlands |
-| Amelia Leyland-Craggs | MRC Cognition and Brain Sciences Unit, University of Cambridge, UK; School of Psychology, University of Sussex, Brighton, UK |
-| Valerie Yap | MRC Cognition and Brain Sciences Unit, University of Cambridge, UK |
-| Jasmine Fardouly | School of Psychology, University of Sydney, Sydney, NSW, Australia |
-| Amy Orben | MRC Cognition and Brain Sciences Unit, University of Cambridge, UK |
+Christina Haag <sup>1</sup>, Mingyue Zha <sup>2</sup>, Matti Vuorre <sup>3</sup>, Laura Boeschoten <sup>4†</sup>, Amanda M. Ferguson <sup>1†</sup>, Sebastian Kurten <sup>4†</sup>, Amelia Leyland-Craggs <sup>1,6†</sup>, Valerie Yap <sup>1†</sup>, Jasmine Fardouly <sup>5</sup>, Amy Orben <sup>1\*</sup>
+
+<sup>1</sup> MRC Cognition and Brain Sciences Unit, University of Cambridge, Cambridge, United Kingdom
+<sup>2</sup> Department of Quantitative Social Science, Dartmouth College, Hanover, NH, United States
+<sup>3</sup> Department of Social Psychology, Tilburg School of Social and Behavioral Sciences, Tilburg University, Tilburg, Netherlands
+<sup>4</sup> Department of Methodology and Statistics, Utrecht University, Utrecht, Netherlands
+<sup>5</sup> School of Psychology, University of Sydney, Sydney, NSW, Australia
+<sup>6</sup> School of Psychology, University of Sussex, Brighton, United Kingdom
+
 
